@@ -3,12 +3,12 @@
     <channel>
         <title>notype</title>
         <item>
-            <title>1.2.2</title>
-            <pubDate>Mon, 16 Feb 2026 22:21:02 +0800</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <title>1.3.0</title>
+            <pubDate>Mon, 16 Feb 2026 23:53:04 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://tzangms.github.io/notype-updates/updates/notype-1.2.2.dmg" length="8068761" type="application/octet-stream" sparkle:edSignature="S0392YqTj5TCYICiCMNWhDK7uX4bKs5cr8tk+ES7B6fPoZdUdFAzQ4NIr5MPodeYIw4nC9xiH6G0klLO8v6rBA=="/>
+            <enclosure url="https://tzangms.github.io/notype-updates/notype-1.3.0.dmg" length="8068683" type="application/octet-stream" sparkle:edSignature="CgDgAgYMRlVus4ZQ5uueX9+xSzuQZ4ifiCaJqVkPXk9pnRWZHFHkaikPCu8iNZis03/p0dOsmwTFdOoh/WEFBA=="/>
         </item>
     </channel>
 </rss>
