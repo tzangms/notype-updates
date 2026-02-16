@@ -4,6 +4,14 @@
         <title>notype</title>
         <item>
             <title>1.4.0</title>
+            <pubDate>Tue, 17 Feb 2026 01:04:21 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://tzangms.github.io/notype-updates/notype-1.4.0.dmg" length="8071013" type="application/octet-stream" sparkle:edSignature="NKk9ZfyFSLe13EOF9MmQK6bGzEaNIJ0/PdN/vpZIOIuj18qAC7YSYFBHfO7JMo3toaLcnV37pW84yOOv/oBhAg=="/>
+        </item>
+        <item>
+            <title>1.4.0</title>
             <pubDate>Tue, 17 Feb 2026 00:55:11 +0800</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
