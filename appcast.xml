@@ -8,7 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://tzangms.github.io/notype/updates/notype-1.2.2.dmg" length="8068761" type="application/octet-stream" sparkle:edSignature="S0392YqTj5TCYICiCMNWhDK7uX4bKs5cr8tk+ES7B6fPoZdUdFAzQ4NIr5MPodeYIw4nC9xiH6G0klLO8v6rBA=="/>
+            <enclosure url="https://tzangms.github.io/notype-updates/updates/notype-1.2.2.dmg" length="8068761" type="application/octet-stream" sparkle:edSignature="S0392YqTj5TCYICiCMNWhDK7uX4bKs5cr8tk+ES7B6fPoZdUdFAzQ4NIr5MPodeYIw4nC9xiH6G0klLO8v6rBA=="/>
         </item>
     </channel>
 </rss>
