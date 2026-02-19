@@ -3,7 +3,15 @@
     <channel>
         <title>notype</title>
         <item>
-            <title>1.6.2</title>
+            <title>1.7.0</title>
+            <pubDate>Thu, 19 Feb 2026 15:05:07 +0800</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://tzangms.github.io/notype-updates/notype-1.7.0.dmg" length="13485977" type="application/octet-stream" sparkle:edSignature="0S/uT9ZmFUMU1fiW7CFKH2a0WT2zS1D3nJkeqWu4OEH/zBmib51YhnVZWOs7Wk4DF+Z7+QeaNyL+7pptSzQWBA=="/>
+        </item>
+        <item>
+            <title>1.7.0</title>
             <pubDate>Wed, 18 Feb 2026 21:14:59 +0800</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.6.2</sparkle:shortVersionString>
@@ -11,20 +19,12 @@
             <enclosure url="https://tzangms.github.io/notype-updates/notype-1.6.2.dmg" length="13439666" type="application/octet-stream" sparkle:edSignature="8bEhAIbdlEYJ8dKyi0lgmqqH23B6kvPkM/R/8eewG7WZ2Irz8x82aU5FsjiofbaeCWQb34SgtEma2cH4fJf9Cw=="/>
         </item>
         <item>
-            <title>1.6.2</title>
+            <title>1.7.0</title>
             <pubDate>Wed, 18 Feb 2026 11:51:24 +0800</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://tzangms.github.io/notype-updates/notype-1.6.1.dmg" length="8155498" type="application/octet-stream" sparkle:edSignature="WjP+4yLKkLvRW6P90tGRIAvg6m5RKqL5EFN8l1VjU4io3jpOjMUi5K2k6cT2pSosmXMAMHR5hKK1KbmueCxACw=="/>
-        </item>
-        <item>
-            <title>1.6.2</title>
-            <pubDate>Wed, 18 Feb 2026 10:40:31 +0800</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://tzangms.github.io/notype-updates/notype-1.6.0.dmg" length="8144236" type="application/octet-stream" sparkle:edSignature="DUhYrcoEbP4v6d2f9382GsYK5i+9/Fu910vTq5qysLB6d+gwZ1T+zrYpOKerLtWG6AOc3G75OXAzTL35pt4jCg=="/>
         </item>
     </channel>
 </rss>
