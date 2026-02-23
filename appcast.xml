@@ -3,7 +3,15 @@
     <channel>
         <title>notype</title>
         <item>
-            <title>1.8.0</title>
+            <title>1.9.0</title>
+            <pubDate>Mon, 23 Feb 2026 15:25:45 +0800</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://tzangms.github.io/notype-updates/notype-1.9.0.dmg" length="10334423" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>1.9.0</title>
             <pubDate>Mon, 23 Feb 2026 07:59:31 +0800</pubDate>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
@@ -11,20 +19,12 @@
             <enclosure url="https://tzangms.github.io/notype-updates/notype-1.8.0.dmg" length="16144200" type="application/octet-stream" sparkle:edSignature="4fjeNukrxXAK+ajejunCM2+E8p19dRCwk9vSMBwdv81NZ6x3L78aqbBsSt1/mDzJjIb2yUXa6l320qz4Va1mCQ=="/>
         </item>
         <item>
-            <title>1.8.0</title>
+            <title>1.9.0</title>
             <pubDate>Sun, 22 Feb 2026 13:16:23 +0800</pubDate>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://tzangms.github.io/notype-updates/notype-1.7.7.dmg" length="14992557" type="application/octet-stream" sparkle:edSignature="ZgdVaPcsaUu1qani+Xe8ZrBz5IuB18uOHEiZe+lyqxdNkkCKoThS/b1LR6h32QB9oPhx+2QiZh4/ucDFqm8LBA=="/>
-        </item>
-        <item>
-            <title>1.8.0</title>
-            <pubDate>Sun, 22 Feb 2026 13:11:20 +0800</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://tzangms.github.io/notype-updates/notype-1.7.6.dmg" length="14992686" type="application/octet-stream" sparkle:edSignature="1scWdAUY46xkPvY2+b8hVfAa1RP19dtA9WSa1tbfu75lBwoS+B6McjtpeVYE5CohCh/p7nfenh9DQZRNoOfmDQ=="/>
         </item>
     </channel>
 </rss>
